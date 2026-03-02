@@ -1,5 +1,5 @@
 
-# 🎬 Netflix Content Analysis
+#  Netflix Content Analysis
 
 ##  Project Overview
 Exploratory Data Analysis (EDA) of Netflix's content library using Python.
@@ -33,7 +33,7 @@ The goal is to uncover trends and insights about Netflix's content strategy.
 - Top 10 genres
 
 ## 👤 Author
-Your Name — Md Jalal Abedin [https://www.linkedin.com/in/jalal-abedin/]
+ Md Jalal Abedin [https://www.linkedin.com/in/jalal-abedin/]
 
 ## 📈 Visualizations
 
