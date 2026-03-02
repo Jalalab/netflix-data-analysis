@@ -34,3 +34,12 @@ The goal is to uncover trends and insights about Netflix's content strategy.
 
 ## 👤 Author
 Your Name — Md Jalal Abedin [https://www.linkedin.com/in/jalal-abedin/]
+
+## 📈 Visualizations
+
+![Movies vs TV Shows](movies_vs_shows.png)
+![Top Countries](top_countries.png)
+![Content Growth](content_growth.png)
+![Ratings](ratings.png)
+![Top Directors](top_directors.png)
+![Top Genres](top_genres.png)
